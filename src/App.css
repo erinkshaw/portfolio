@@ -1,0 +1,15 @@
+#bio {
+  display: flex;
+  justify-content: center;
+}
+
+#flexy-icons {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap
+
+}
+
+#flexy-icons > img {
+  height: 100px
+}
